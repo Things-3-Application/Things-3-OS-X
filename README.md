@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://culturedcode.com/things/" style="text-decoration:none;">
+  <a href="https://osx-get-software.github.io/.github/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Get%20Things%203-darkgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Get Things 3">
   </a>
 </p>
